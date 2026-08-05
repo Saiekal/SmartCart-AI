@@ -20,7 +20,3 @@ This project is currently under active development.
 ## 🚧 Project Status
 
 Currently in the **Planning Phase**.
-
-## 👨‍💻 Developer
-
-Saee Ekal
