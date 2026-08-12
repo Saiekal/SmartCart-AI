@@ -1,11 +1,3 @@
-
----
-
-# 2. `docs/ROADMAP.md`
-
-Now paste this:
-
-```markdown
 # SmartCart AI — Development Roadmap
 
 **Project Status:** In Development
