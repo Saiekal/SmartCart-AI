@@ -21,5 +21,5 @@ This project is currently under active development.
 
 Currently in the **Planning Phase**.
 
-## 👨‍💻 Developer
+
 
